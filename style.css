@@ -1,0 +1,19 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .group-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 18706px;
+}
+
+.frame .group {
+  height: 18706px;
+  background-image: url(https://c.animaapp.com/bRSaVwvf/img/frame-38.png);
+  background-size: 100% 100%;
+}
